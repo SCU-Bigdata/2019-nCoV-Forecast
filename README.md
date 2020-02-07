@@ -1,3 +1,3 @@
 # 2019-nCoV-Forecast
 
-The data includes the cumulative number of confirmed , recovery and death cases. We collect them from January 20 to February 6. And these date are from daily reports of National Health Commission of the People's Republic of China. 
+We use the daily reports of National Health Commission of the People's Republic of China to forecast the cumulative number of confirmed cases.
