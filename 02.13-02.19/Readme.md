@@ -1,4 +1,5 @@
-介绍 Introduction
+#介绍 Introduction
+
 所有使用的数据均来自于中国国家卫生健康委员会的每日报告。我们收集了2020年1月20日至2月12日的确诊数，治愈数和死亡数。
 
 Introduction
